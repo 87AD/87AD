@@ -10,6 +10,9 @@ Just a Student Developer
 
 [![Haxe Badge](https://img.shields.io/badge/-haxe-EA8220?style=for-the-badge&labelColor=black&logo=haxe&logoColor=EA8220)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+
+( X )
+
 [![Html Badge](https://img.shields.io/badge/-html-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) 
 [![Css Badge](https://img.shields.io/badge/-Css-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
 
