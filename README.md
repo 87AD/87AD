@@ -12,15 +12,4 @@ Just a Student Developer
 [![JS Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
 
-<details>
-<summary>
-  More Information
-</summary>
 
-<br >
-
-#### Github Stats
-
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=8977AD&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-</details>
