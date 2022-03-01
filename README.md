@@ -9,7 +9,7 @@ Just a Student Developer
 ## My Skills
 
 [![Haxe Badge](https://img.shields.io/badge/-haxe-EA8220?style=for-the-badge&labelColor=black&logo=haxe&logoColor=EA8220)](#) 
-(https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Haxe Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
 
 <details>
