@@ -10,18 +10,15 @@ I create something useless projects **but, it might be usful someone?**
 
 ## Contacts
 <p align="center">
-<a href="https://discord.com/users/916597437228015656">
+<a href="mailto:87adisgod@gmail.com">
     <img src="https://user-images.githubusercontent.com/87123501/163698068-fb2cc365-ab95-4a70-9af6-55b0a50f4fa0.png" alt="Discord" width="80" height="80"/>
   </a>
- </p>
 <a href="https://discord.com/users/916597437228015656">
     <img src="https://user-images.githubusercontent.com/87123501/163698073-991445a2-3662-46ff-89de-5f0baf36d179.png" alt="Email" width="80" height="80"/>
   </a>
- </p>
-<a href="mailto:87adisgod@gmail.com">
+<a href="https://twitter.com/87AD_Studio">
     <img src="https://user-images.githubusercontent.com/87123501/163698070-3eb15f19-0560-48c9-9ff8-a0e2b3496711.png" alt="Twitter" width="80" height="80"/>
   </a>
- </p>
 </p>
 
 
