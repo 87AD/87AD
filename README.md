@@ -6,6 +6,7 @@ Hello!! I'm **Fr** ( 87 ) I'm just a student **programmer** located in South Kor
 
 I create something ~~only~~ useless projects. **Maybe, it could be useful to someone?**
 
+- and my [tistory](https://87adcf.tistory.com/) -
 ---
 
 ## Contacts
@@ -33,6 +34,9 @@ I create something ~~only~~ useless projects. **Maybe, it could be useful to som
 [![Haxe Badge](https://img.shields.io/badge/-haxe-EA8220?style=for-the-badge&labelColor=black&logo=haxe&logoColor=EA8220)](#) 
 [![JS Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![C,C++ Badge](https://img.shields.io/badge/-C,C++-035798?style=for-the-badge&labelColor=black&logo=c&logoColor=white)](#) 
+
+
+- ⓒ [87ad](https://github.com/87ad)
 
 <details>
 <summary>More</summary>
