@@ -6,6 +6,7 @@
 
 ## Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/87123501/163696179-c176ef85-d4f3-4f00-89c6-fdf0476e3b16.png" />
 <br>
 
 ## Programming Languages
