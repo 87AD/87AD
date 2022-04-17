@@ -11,15 +11,15 @@ I create something useless projects **but, it might be usful someone?**
 ## Contacts
 <p align="center">
 <a href="https://discord.com/users/916597437228015656">
-    <img src="https://user-images.githubusercontent.com/87123501/163697732-a205380c-9aa2-4346-b10f-85d8f02a1b28.png" alt="Discord" width="80" height="80"/>
+    <img src="https://user-images.githubusercontent.com/87123501/163698068-fb2cc365-ab95-4a70-9af6-55b0a50f4fa0.png" alt="Discord" width="80" height="80"/>
   </a>
  </p>
 <a href="https://discord.com/users/916597437228015656">
-    <img src="https://user-images.githubusercontent.com/87123501/163697730-2af60620-0e02-41d0-bf0d-71e4ef08ad52.png" alt="Email" width="80" height="80"/>
+    <img src="https://user-images.githubusercontent.com/87123501/163698073-991445a2-3662-46ff-89de-5f0baf36d179.png" alt="Email" width="80" height="80"/>
   </a>
  </p>
 <a href="mailto:87adisgod@gmail.com">
-    <img src="https://user-images.githubusercontent.com/87123501/163697733-b667bb15-7c10-4bbb-a607-8ca0c6400b44.png" alt="Twitter" width="80" height="80"/>
+    <img src="https://user-images.githubusercontent.com/87123501/163698070-3eb15f19-0560-48c9-9ff8-a0e2b3496711.png" alt="Twitter" width="80" height="80"/>
   </a>
  </p>
 </p>
