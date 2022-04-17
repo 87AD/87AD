@@ -34,5 +34,12 @@ I create something ~~only~~ useless projects. **Maybe, it could be useful to som
 [![JS Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![C,C++ Badge](https://img.shields.io/badge/-C,C++-035798?style=for-the-badge&labelColor=black&logo=c&logoColor=white)](#) 
 
-
+<details>
+<summary>More</summary>
+  <br>
+  
+  ![Github State](https://github-readme-stats.vercel.app/api?username=87AD&show_icons=true&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact&theme=dark)
+    
+</details>
 
