@@ -4,12 +4,12 @@
 
 Hello!! I'm **Fr** ( 87 ) I'm just a student **programmer** located in South Korea.
 
-I create something useless projects **but, it might be usful someone?**
+I create something ~~only~~ useless projects. **Maybe, it could be useful to someone?**
 
 ---
 
 ## Contacts
-<p align="center">
+<p align="left">
 <a href="mailto:87adisgod@gmail.com">
     <img src="https://user-images.githubusercontent.com/87123501/163698068-fb2cc365-ab95-4a70-9af6-55b0a50f4fa0.png" alt="Discord" width="80" height="80"/>
   </a>
@@ -17,7 +17,7 @@ I create something useless projects **but, it might be usful someone?**
     <img src="https://user-images.githubusercontent.com/87123501/163698073-991445a2-3662-46ff-89de-5f0baf36d179.png" alt="Email" width="80" height="80"/>
   </a>
 <a href="https://twitter.com/87AD_Studio">
-    <img src="https://user-images.githubusercontent.com/87123501/163698070-3eb15f19-0560-48c9-9ff8-a0e2b3496711.png" alt="Twitter" width="80" height="80"/>
+    <img src="https://user-images.githubusercontent.com/87123501/163698296-3cceaf36-255b-462b-ba80-de19adabe127.png" alt="Twitter" width="80" height="80"/>
   </a>
 </p>
 
