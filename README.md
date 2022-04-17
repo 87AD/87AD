@@ -6,7 +6,7 @@ Hello!! I'm **Fr** ( 87 ) I'm just a student **programmer** located in South Kor
 
 I create something ~~only~~ useless projects. **Maybe, it could be useful to someone?**
 
-- and my [tistory](https://87adcf.tistory.com/) -
+and my [tistory](https://87adcf.tistory.com/)..
 ---
 
 ## Contacts
