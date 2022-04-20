@@ -6,7 +6,7 @@ Hello!! I'm **Fr** ( 87 ) I'm just a student **programmer** located in South Kor
 
 I create something ~~only~~ useless projects. **Maybe, it could be useful to someone?**
 
-- and my tistory [tistory](https://87adcf.tistory.com/)..
+- and my [tistory](https://87adcf.tistory.com/)..
 ---
 
 ## Contacts
@@ -44,7 +44,7 @@ I create something ~~only~~ useless projects. **Maybe, it could be useful to som
   <br>
   
   ![Github State](https://github-readme-stats.vercel.app/api?username=87AD&show_icons=true&theme=dark)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choshinyoung&layout=compact&theme=dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=87ad&layout=compact&theme=dark)
     
 </details>
 
