@@ -11,13 +11,13 @@ I create something ~~only~~ useless projects. **Maybe, it could be useful to som
 
 ## Contacts
 <p align="left">
-<a href="mailto:87adisgod@gmail.com" target="_blank">
+<a href="mailto:87adisgod@gmail.com">
     <img src="https://user-images.githubusercontent.com/87123501/163698068-fb2cc365-ab95-4a70-9af6-55b0a50f4fa0.png" alt="Discord" width="80" height="80"/>
   </a>
-<a href="https://discord.com/users/916597437228015656" target="_blank">
+<a href="https://discord.com/users/916597437228015656">
     <img src="https://user-images.githubusercontent.com/87123501/163698073-991445a2-3662-46ff-89de-5f0baf36d179.png" alt="Email" width="80" height="80"/>
   </a>
-<a href="https://twitter.com/87AD_Studio" target="_blank">
+<a href="https://twitter.com/87AD_Studio">
     <img src="https://user-images.githubusercontent.com/87123501/163698296-3cceaf36-255b-462b-ba80-de19adabe127.png" alt="Twitter" width="80" height="80"/>
   </a>
 </p>
