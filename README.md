@@ -43,8 +43,8 @@ I create something ~~only~~ useless projects. **Maybe, it could be useful to som
 <summary>More</summary>
   <br>
   
-  ![Github State](https://github-readme-stats.vercel.app/api?username=87AD&show_icons=true&theme=dark)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=87ad&layout=compact&theme=dark)
+  ![Github State](https://github-readme-stats.vercel.app/api?username=87AD&show_icons=true&theme=midnight-purple)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=87ad&layout=compact&theme=midnight-purple)
     
 </details>
 
