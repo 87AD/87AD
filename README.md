@@ -45,7 +45,7 @@ I create something ~~only~~ useless projects. **Maybe, it could be useful to som
   
   ![Github State](https://github-readme-stats.vercel.app/api?username=87AD&show_icons=true&theme=midnight-purple)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=87ad&layout=compact&theme=midnight-purple)
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=87adisgod)](https://solved.ac/87adisgod)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=87adisgod)](https://solved.ac/87adisgod/)
     
 </details>
 
