@@ -2,7 +2,7 @@
 
 
 
-Hello!! I'm **Fr** ( 87 ) I'm just a student **programmer** located in South Korea.
+Hello!! I'm **Fr** ( 87ad ) I'm just (ab)normal a student **programmer** located in South Korea.
 
 I create something ~~only~~ useless projects. **Maybe, it could be useful to someone?**
 
